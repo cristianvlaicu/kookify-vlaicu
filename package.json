@@ -1,0 +1,23 @@
+{
+  "name": "kookify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Crsitian Vlaicu Solomon",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.13.2",
+    "parcel": "^2.13.2",
+    "svgo": "^3.3.2"
+  },
+  "dependencies": {
+    "core-js": "^3.39.0",
+    "fracty": "^1.0.12",
+    "lodash-es": "^4.17.21",
+    "regenerator-runtime": "^0.14.1"
+  }
+}
