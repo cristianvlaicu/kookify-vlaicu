@@ -14,7 +14,7 @@ This is the mo** fuc** best and most complete web application I could make ever!
 
 &nbsp;&nbsp;👉 All code files are commented as always to can follow the logic and understand what it is done in every step.
 
-&nbsp;&nbsp;👉 This app (as the last 2 or 3 projects) is possible thanks to <b>Jonas Schmedtmann</b> and his amazing and complete JavaScript Course, on Udemy academy. Here is the link to that course, <a class="kookify_app" target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/" >https://www.udemy.com/course/the-complete-javascript-course/
+&nbsp;&nbsp;👉 This app (as the last 5 or 6 projects) is possible thanks to <b>Jonas Schmedtmann</b> and his amazing and complete JavaScript Course, on Udemy academy. Here is the link to that course, <a class="kookify_app" target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/" >https://www.udemy.com/course/the-complete-javascript-course/
 </a>, in case someone want to learn or review the fundamental bases of JavaScript by making projects based on JS. One more time, thank you Jonas Schmedtmann and thank you Udemy.
 
 &nbsp;&nbsp;👉 Obviusly you can clone the repository or download the zip folder of this beautiful project and use it as you wish.
